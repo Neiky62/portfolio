@@ -86,6 +86,7 @@ END;
 $$ LANGUAGE plpgsql;
 
 --5
+
 CREATE OR REPLACE PROCEDURE affiche_type_super_efficace()
 LANGUAGE plpgsql as $$
 DECLARE 
